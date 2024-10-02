@@ -1,0 +1,44 @@
+h1{
+    font-size: 2rem;
+    font-weight:100;
+    background-color:#cccccc;
+    text-align: center;
+}
+
+h1,h2,h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.maintext{
+    color: #FF0000;
+}
+
+#container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto; 
+  }
+
+
+.highlight{
+    color: blueviolet;
+}
+
+#footer {
+    color: #0066CC;
+    background-color: #CCCCCC;
+    font-size: 10px;
+    text-align: center;
+}
+
+.quals{
+    border-collapse: collapse;
+}
+.quals th{
+    border-bottom:3px solid #ccc;
+    padding:5px;
+}
+.quals td{
+    border-bottom:1px solid #ccc;
+    padding:5px;
+}
